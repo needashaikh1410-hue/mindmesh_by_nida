@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+streamlit
+matplotlib
+=======
+streamlit
+matplotlib
+>>>>>>> 151ca9e345f33e3c588fe370a5afcf0f5c2f8118
+pandas
