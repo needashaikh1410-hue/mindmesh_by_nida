@@ -1,0 +1,5 @@
+What is the capital city of France?
+Which data type is immutable in Python?
+Who wrote the play 'Romeo and Juliet'?
+What does CSS stand for in web development?
+Which planet is known as the Red Planet?

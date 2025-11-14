@@ -1,0 +1,5 @@
+Paris,London,Berlin,Madrid
+List,Tuple,Dictionary,Set
+Charles Dickens,William Shakespeare,Jane Austen,Mark Twain
+Computer Style Sheets,Cascading Style Sheets,Creative Style Syntax,Code Styling System
+Venus,Mars,Jupiter,Saturn
